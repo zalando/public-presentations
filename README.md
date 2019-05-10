@@ -38,6 +38,10 @@
 
 * [2013-10-18 GOTO 2013: Why Zalando trusts in PostgreSQL](files/2013-10-18-goto-2013-why-zalando-trusts-in-postgresql-20131018-150531181144-lva1-app6892.pdf)
 
+## 2012
+
+* [2012-10-25 PGConf.EU: Java Wrapper for PostgreSQL Stored Procedures](files/2012-10-25-pgconf2012_sprocwrapper.pdf)
+
 ## 2010
 
 * [2010-04-06 PHP Usergroup Berlin talk "Ein Leben mit und ohne Magento"](files/2010-04-06-phpugberlinzalando06042010-161220101103.pdf)
