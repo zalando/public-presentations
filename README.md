@@ -18,6 +18,7 @@
 
 * [2018-12-11 KubeCon North America: Building your own PostgreSQL-as-a-Service on Kubernetes](https://www.youtube.com/watch?v=G8MnpkbhClc)
 * [2018-12-05 DevOpsCon Munich 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-devopscon-munich-2018)
+* [2018-11-15 LISA18: Modern HTTP Routing (Skipper)](https://www.youtube.com/watch?v=mjJP8aLMm2E)
 * [2018-11-08 HighLoad++ Moscow 2018: Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency](https://www.youtube.com/watch?v=eBChCFD9hfs) ([slides](https://www.slideshare.net/try_except_/optimizing-kubernetes-resource-requestslimits-for-costefficiency-and-latency-highload))
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
 * [2018-09-07 Container Camp UK 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-container-camp-uk)
@@ -37,6 +38,7 @@
 * [2017-07-19 Automatic infrastructure for Kubernetes ingress in AWS - Berlin Docker Meetup](https://www.slideshare.net/SandorSzuecs/2017-0719-automatic-infrastructure-for-kubernetes-ingress-in-aws)
 * [2017-07-12 Docker Hamburg Meetup: Large Scale Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://drive.google.com/open?id=0B6UeTsXSqfklLXNpR0V5Tk5DbFk)
 * [2017-07-12 Docker Hamburg Meetup: PostgreSQL on Kubernetes](https://drive.google.com/open?id=0B6UeTsXSqfklN2ZaM1FFMk93Qm8)
+* [2017-06-15 Berlin Buzzwords: The modern architecture of search](https://www.youtube.com/watch?v=BhAGrenI_xE)
 * [2017-05-18 Berlin Kubernetes Meetup: From AWS/STUPS to Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/from-awsstups-to-kubernetes-on-aws-zalando-berlin-kubernetes-meetup)
 * [2017-05-09 Berlin AWS User Group: Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/kubernetes-on-aws-zalando-berlin-aws-user-group-20170509)
 * [2017-04-13 CNCF End User Committee: Kubernetes at Zalando](https://www.slideshare.net/try_except_/kubernetes-at-zalando-cncf-end-user-committee-presentation)
