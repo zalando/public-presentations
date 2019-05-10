@@ -5,6 +5,7 @@
 ## 2019
 
 * [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
+* [2019-04-23 GAIA: Putting Data Science in Production](https://www.youtube.com/watch?v=jePTtEFBgLI)
 * [2019-04-18 CNCF End User SIG-DX: Developer Experience at Zalando](files/2019-04-18-developerexperienceatzalando-cncfendusersig-dx-190418193313.pdf)
 * [2019-03-21 Data Engineering Meetup Berlin: Data Infrastructure as Code](https://www.youtube.com/watch?v=ASB-uKSP2S4)
 * [2019-03-13 DevOps Gathering 2019: Ensuring Kubernetes Cost Efficiency across (many) Clusters](https://www.youtube.com/watch?v=4QyecOoPsGU) ([slides](https://www.slideshare.net/try_except_/ensuring-kubernetes-cost-efficiency-across-many-clusters-devops-gathering-2019))
