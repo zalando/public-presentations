@@ -7,6 +7,7 @@
 * [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
 * [2019-04-18 CNCF End User SIG-DX: Developer Experience at Zalando](files/2019-04-18-developerexperienceatzalando-cncfendusersig-dx-190418193313.pdf)
 * [2019-03-13 DevOps Gathering 2019: Ensuring Kubernetes Cost Efficiency across (many) Clusters](https://www.youtube.com/watch?v=4QyecOoPsGU) ([slides](https://www.slideshare.net/try_except_/ensuring-kubernetes-cost-efficiency-across-many-clusters-devops-gathering-2019))
+* [2019-02-03 FOSDEM: Nakadi: Streaming Events for 100s of Teams](https://video.fosdem.org/2019/UA2.118/nakadi.mp4)
 
 ## 2018
 
@@ -16,6 +17,8 @@
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
 * [2018-09-07 Container Camp UK 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-container-camp-uk)
 * [2018-05-04 KubeCon Copenhagen 2018: Continuously Deliver your Kubernetes Infrastructure](https://www.youtube.com/watch?v=1xHmCrd8Qn8)
+* [2018-02-03 FOSDEM: Nakadi Event Broker](https://video.fosdem.org/2018/H.2215/nakadi.webm)
+* [2018-02-03 FOSDEM: Blue elephant on-demand: Postgres + Kubernetes](https://video.fosdem.org/2018/H.1302/blue_elephant_on_demand_postgres_kubernetes.webm)
 * [2018-01-24 Zalando Dortmund Meetup: Kubernetes Deployments: A “Hands-Off” Approach](https://www.youtube.com/watch?v=e0DruWvY-ME)
 
 ## 2017
