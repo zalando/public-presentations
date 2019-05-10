@@ -33,6 +33,7 @@
 
 ## 2015
 
+* [2015-10-29 AWS Enterprise Webday: STUPS – Eine Cloud Infrastruktur für autonome Teams](https://www.youtube.com/watch?v=20Ji-rXkG2Q)
 * [2015-06-01 DevOps Con 2015: Radical Agility with Autonomous Teams and Microservices in the Cloud](files/2015-06-01-devopscon2015-radicalagilitywithautonomousteamsandmicroservicesinthecloud-150601153822-lva1-app6891.pdf) ([YouTube](https://www.youtube.com/watch?v=IujDeMdXAgA))
 
 ## 2013
