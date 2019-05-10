@@ -44,6 +44,10 @@
 * [2015-09-03 DevOps Meetup Dublin: ZMON: Monitoring Zalando's Engineering Platform](files/2015-09-03-zmon-meetup-dublin-1-150910111815-lva1-app6891.pdf)
 * [2015-06-01 DevOps Con 2015: Radical Agility with Autonomous Teams and Microservices in the Cloud](files/2015-06-01-devopscon2015-radicalagilitywithautonomousteamsandmicroservicesinthecloud-150601153822-lva1-app6891.pdf) ([YouTube](https://www.youtube.com/watch?v=IujDeMdXAgA))
 
+## 2014
+
+* [2014-11-26 Manage Agile 2014: Project Management at Zalando](files/2014-11-26-projectmanagementatzalando-manageagile2014-141126090317-conversion-gate01.pdf)
+
 ## 2013
 
 * [2013-10-18 GOTO 2013: Why Zalando trusts in PostgreSQL](files/2013-10-18-goto-2013-why-zalando-trusts-in-postgresql-20131018-150531181144-lva1-app6892.pdf)
