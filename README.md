@@ -10,6 +10,7 @@
 
 ## 2018
 
+* [2018-12-11 KubeCon North America: Building your own PostgreSQL-as-a-Service on Kubernetes](https://www.youtube.com/watch?v=G8MnpkbhClc)
 * [2018-12-05 DevOpsCon Munich 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-devopscon-munich-2018)
 * [2018-11-08 HighLoad++ Moscow 2018: Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency](https://www.youtube.com/watch?v=eBChCFD9hfs) ([slides](https://www.slideshare.net/try_except_/optimizing-kubernetes-resource-requestslimits-for-costefficiency-and-latency-highload))
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
@@ -29,6 +30,7 @@
 
 ## 2016
 
+* [2016-11-15 GOTO 2016: The Frontend Taboo: a Story of Full Stack Microservices](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [2016-08-08 GOTO 2016: From Monolith to Microservices at Zalando](https://www.youtube.com/watch?v=gEeHZwjwehs)
 * [2016-05-12 Plan B: Service to Service Authentication with OAuth](files/2016-05-12-planb-servicetoserviceauthenticationwithoauth-160512191346.pdf)
 
