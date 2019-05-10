@@ -10,7 +10,9 @@
 * [2019-04-02 microXchg Berlin 2019: Operating Elasticsearch in Kubernetes](files/2019-04-02-operatingelasticsearchinkubernetes-microxchg-190404205049.pdf)
 * [2019-03-21 Data Engineering Meetup Berlin: Data Infrastructure as Code](https://www.youtube.com/watch?v=ASB-uKSP2S4)
 * [2019-03-13 DevOps Gathering 2019: Ensuring Kubernetes Cost Efficiency across (many) Clusters](https://www.youtube.com/watch?v=4QyecOoPsGU) ([slides](https://www.slideshare.net/try_except_/ensuring-kubernetes-cost-efficiency-across-many-clusters-devops-gathering-2019))
+* [2019-02-11 Hamburg Meetup: Kubernetes Failure Stories](files/2019-02-11_Kubernetes_Failure_Stories_-_Hamburg_Meetup.pdf)
 * [2019-02-03 FOSDEM: Nakadi: Streaming Events for 100s of Teams](https://video.fosdem.org/2019/UA2.118/nakadi.mp4)
+* [2019-01-23 Handelsblatt Strategisches IT-Management: Developer Experience at Zalando](files/2019-01-23_Developer_Experience_bei_Zalando_Entwicklerproduktivitaet_steigern_mit_Cloud_Native_Infrastruktur_-_Handelsblatt_Strategisches_IT-Management.pdf)
 
 ## 2018
 
@@ -34,8 +36,8 @@
 * [2017-07-19 Automatic infrastructure for Kubernetes ingress in AWS - Berlin Docker Meetup](https://www.slideshare.net/SandorSzuecs/2017-0719-automatic-infrastructure-for-kubernetes-ingress-in-aws)
 * [2017-07-12 Docker Hamburg Meetup: Large Scale Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://drive.google.com/open?id=0B6UeTsXSqfklLXNpR0V5Tk5DbFk)
 * [2017-07-12 Docker Hamburg Meetup: PostgreSQL on Kubernetes](https://drive.google.com/open?id=0B6UeTsXSqfklN2ZaM1FFMk93Qm8)
-* [2017-05-18 Berlin Kubernetes Meetup: From AWS/STUPS to Kubernetes on AWS @Zalando](https://www.slideshare.net/try_except_/from-awsstups-to-kubernetes-on-aws-zalando-berlin-kubernetes-meetup)
-* [2017-05-09 Berlin AWS User Group: Kubernetes on AWS @Zalando](https://www.slideshare.net/try_except_/kubernetes-on-aws-zalando-berlin-aws-user-group-20170509)
+* [2017-05-18 Berlin Kubernetes Meetup: From AWS/STUPS to Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/from-awsstups-to-kubernetes-on-aws-zalando-berlin-kubernetes-meetup)
+* [2017-05-09 Berlin AWS User Group: Kubernetes on AWS at Zalando](https://www.slideshare.net/try_except_/kubernetes-on-aws-zalando-berlin-aws-user-group-20170509)
 * [2017-04-13 CNCF End User Committee: Kubernetes at Zalando](https://www.slideshare.net/try_except_/kubernetes-at-zalando-cncf-end-user-committee-presentation)
 * [2017-04-03 "Kubernetes on AWS at Europe’s Leading Online Fashion Platform” on YouTube](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
 * [2017-03-27 Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://www.slideshare.net/try_except_/kubernetes-on-aws-at-europes-leading-online-fashion-platform)
