@@ -45,9 +45,11 @@
 
 ## 2016
 
+* [2016-12-11 OSMC 2016: ZMON: Zalando's OS approach to monitoring in the cloud and DCs](https://www.youtube.com/watch?v=NJ4auXwCXjY)
 * [2016-11-20 PyMunich: Connexion, API-First Framework for Python](https://www.youtube.com/watch?v=SEQeovx5z_A)
 * [2016-11-15 GOTO 2016: The Frontend Taboo: a Story of Full Stack Microservices](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [2016-08-08 GOTO 2016: From Monolith to Microservices at Zalando](https://www.youtube.com/watch?v=gEeHZwjwehs)
+* [2016-05-31 Atmosphere 2016: ZMON: Zalando's OS approach to monitoring in the cloud and DCs](https://www.youtube.com/watch?v=1x_4JQz-NpM)
 * [2016-05-12 Plan B: Service to Service Authentication with OAuth](files/2016-05-12-planb-servicetoserviceauthenticationwithoauth-160512191346.pdf)
 
 ## 2015
