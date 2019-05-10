@@ -32,7 +32,13 @@
 * [2017-10-04 Kubernetes on AWS at Zalando - First Kubernetes & CNCF meetup in Finland](https://www.youtube.com/watch?time_continue=4&v=H92nfJt3ymo)
 * [2017-09-28 Large Scale Kubernetes on AWS at Europe's Leading Online Fashion Platform - AWS Tech Community Days Cologne](https://www.slideshare.net/HenningJacobs/large-scale-kubernetes-on-aws-at-europes-leading-online-fashion-platform-aws-tech-community-days-cologne)
 * [2017-07-19 Automatic infrastructure for Kubernetes ingress in AWS - Berlin Docker Meetup](https://www.slideshare.net/SandorSzuecs/2017-0719-automatic-infrastructure-for-kubernetes-ingress-in-aws)
+* [2017-07-12 Docker Hamburg Meetup: Large Scale Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://drive.google.com/open?id=0B6UeTsXSqfklLXNpR0V5Tk5DbFk)
+* [2017-07-12 Docker Hamburg Meetup: PostgreSQL on Kubernetes](https://drive.google.com/open?id=0B6UeTsXSqfklN2ZaM1FFMk93Qm8)
+* [2017-05-18 Berlin Kubernetes Meetup: From AWS/STUPS to Kubernetes on AWS @Zalando](https://www.slideshare.net/try_except_/from-awsstups-to-kubernetes-on-aws-zalando-berlin-kubernetes-meetup)
+* [2017-05-09 Berlin AWS User Group: Kubernetes on AWS @Zalando](https://www.slideshare.net/try_except_/kubernetes-on-aws-zalando-berlin-aws-user-group-20170509)
+* [2017-04-13 CNCF End User Committee: Kubernetes at Zalando](https://www.slideshare.net/try_except_/kubernetes-at-zalando-cncf-end-user-committee-presentation)
 * [2017-04-03 "Kubernetes on AWS at Europe’s Leading Online Fashion Platform” on YouTube](https://www.youtube.com/watch?time_continue=2671&v=XmnhzEoengI)
+* [2017-03-27 Kubernetes on AWS at Europe's Leading Online Fashion Platform](https://www.slideshare.net/try_except_/kubernetes-on-aws-at-europes-leading-online-fashion-platform)
 
 ## 2016
 
