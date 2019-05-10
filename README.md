@@ -2,6 +2,10 @@
 
 *This repository is work-in-progress, please open a Pull Request to add public presentations.*
 
+## 2019
+
+* [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
+
 ## 2016
 
 * [2016-08-08 GOTO 2016: From Monolith to Microservices at Zalando](https://www.youtube.com/watch?v=gEeHZwjwehs)
