@@ -22,6 +22,7 @@
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
 * [2018-09-07 Container Camp UK 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-container-camp-uk)
 * [2018-05-04 KubeCon Copenhagen 2018: Continuously Deliver your Kubernetes Infrastructure](https://www.youtube.com/watch?v=1xHmCrd8Qn8)
+* [2018-03-28 DevOps Gathering 2018: CI/CD at Zalando](https://www.youtube.com/watch?v=XXzQbBEqeXw)
 * [2018-02-03 FOSDEM: Nakadi Event Broker](https://video.fosdem.org/2018/H.2215/nakadi.webm)
 * [2018-02-03 FOSDEM: Blue elephant on-demand: Postgres + Kubernetes](https://video.fosdem.org/2018/H.1302/blue_elephant_on_demand_postgres_kubernetes.webm)
 * [2018-01-24 Zalando Dortmund Meetup: Kubernetes Deployments: A “Hands-Off” Approach](https://www.youtube.com/watch?v=e0DruWvY-ME)
@@ -44,6 +45,7 @@
 
 ## 2016
 
+* [2016-11-20 PyMunich: Connexion, API-First Framework for Python](https://www.youtube.com/watch?v=SEQeovx5z_A)
 * [2016-11-15 GOTO 2016: The Frontend Taboo: a Story of Full Stack Microservices](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [2016-08-08 GOTO 2016: From Monolith to Microservices at Zalando](https://www.youtube.com/watch?v=gEeHZwjwehs)
 * [2016-05-12 Plan B: Service to Service Authentication with OAuth](files/2016-05-12-planb-servicetoserviceauthenticationwithoauth-160512191346.pdf)
