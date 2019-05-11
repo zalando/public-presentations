@@ -17,7 +17,7 @@
 ## 2018
 
 * [2018-12-11 KubeCon North America: Building your own PostgreSQL-as-a-Service on Kubernetes](https://www.youtube.com/watch?v=G8MnpkbhClc)
-* [2018-12-05 DevOpsCon Munich 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-devopscon-munich-2018)
+* [2018-12-05 DevOpsCon Munich 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.youtube.com/watch?v=pKFQuED_2kg) ([slides](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-devopscon-munich-2018))
 * [2018-11-15 LISA18: Modern HTTP Routing (Skipper)](https://www.youtube.com/watch?v=mjJP8aLMm2E)
 * [2018-11-08 HighLoad++ Moscow 2018: Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency](https://www.youtube.com/watch?v=eBChCFD9hfs) ([slides](https://www.slideshare.net/try_except_/optimizing-kubernetes-resource-requestslimits-for-costefficiency-and-latency-highload))
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
