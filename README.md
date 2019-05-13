@@ -24,6 +24,7 @@
 * [2018-09-07 Container Camp UK 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-container-camp-uk)
 * [2018-05-04 KubeCon Copenhagen 2018: Continuously Deliver your Kubernetes Infrastructure](https://www.youtube.com/watch?v=1xHmCrd8Qn8)
 * [2018-03-28 DevOps Gathering 2018: CI/CD at Zalando](https://www.youtube.com/watch?v=XXzQbBEqeXw)
+* [2018-03-13 JavaLand 2018: Resiliente Microservices mit Spring Boot und Failse](files/2018-03-13-Einstürzende Neubauten - Resiliente Microservices.pdf)
 * [2018-02-03 FOSDEM: Nakadi Event Broker](https://video.fosdem.org/2018/H.2215/nakadi.webm)
 * [2018-02-03 FOSDEM: Blue elephant on-demand: Postgres + Kubernetes](https://video.fosdem.org/2018/H.1302/blue_elephant_on_demand_postgres_kubernetes.webm)
 * [2018-01-24 Zalando Dortmund Meetup: Kubernetes Deployments: A “Hands-Off” Approach](https://www.youtube.com/watch?v=e0DruWvY-ME)
