@@ -52,7 +52,9 @@
 * [2016-11-15 GOTO 2016: The Frontend Taboo: a Story of Full Stack Microservices](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 * [2016-08-08 GOTO 2016: From Monolith to Microservices at Zalando](https://www.youtube.com/watch?v=gEeHZwjwehs)
 * [2016-05-31 Atmosphere 2016: ZMON: Zalando's OS approach to monitoring in the cloud and DCs](https://www.youtube.com/watch?v=1x_4JQz-NpM)
+* [2016-05-21 PyData Berlin 2016: Data integration in the world of microservices](https://www.youtube.com/watch?v=SbVQBHRAFXA)
 * [2016-05-12 Plan B: Service to Service Authentication with OAuth](files/2016-05-12-planb-servicetoserviceauthenticationwithoauth-160512191346.pdf)
+* [2016-05-10 London Microservices Day: Data integration in the world of microservices](https://www.youtube.com/watch?v=YczNPTpgNqs)
 
 ## 2015
 
