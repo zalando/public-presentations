@@ -3,7 +3,7 @@
 *This repository is work-in-progress, please open a Pull Request to add public presentations.*
 
 ## 2019
-
+* [2019-05-01 Strata Data: INSIGHTS FROM ENGINEERING EUROPE’S LARGEST MARKETING PLATFORM FOR FASHION](https://drive.google.com/open?id=181a0OAPjQI95bo794oUhfV7ZRXhJnuzP)
 * [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
 * [2019-04-23 GAIA: Putting Data Science in Production](https://www.youtube.com/watch?v=jePTtEFBgLI)
 * [2019-04-18 CNCF End User SIG-DX: Developer Experience at Zalando](files/2019-04-18-developerexperienceatzalando-cncfendusersig-dx-190418193313.pdf)
