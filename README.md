@@ -4,6 +4,7 @@
 
 ## 2019
 
+* [2019-05-15 JAX DevOps London: Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency](files/2019-05-15_Optimizing_Kubernetes_Resource_Requests_Limits_for_Cost-Efficiency_and_Latency_-_JAX_DevOps_London.pdf)
 * [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
 * [2019-04-23 GAIA: Putting Data Science in Production](https://www.youtube.com/watch?v=jePTtEFBgLI)
 * [2019-04-18 CNCF End User SIG-DX: Developer Experience at Zalando](files/2019-04-18-developerexperienceatzalando-cncfendusersig-dx-190418193313.pdf)
