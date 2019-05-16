@@ -3,6 +3,7 @@
 *This repository is work-in-progress, please open a Pull Request to add public presentations.*
 
 ## 2019
+
 * [2019-05-15 JAX DevOps London: Optimizing Kubernetes Resource Requests/Limits for Cost-Efficiency and Latency](files/2019-05-15_Optimizing_Kubernetes_Resource_Requests_Limits_for_Cost-Efficiency_and_Latency_-_JAX_DevOps_London.pdf)
 * [2019-05-01 Strata Data: INSIGHTS FROM ENGINEERING EUROPE’S LARGEST MARKETING PLATFORM FOR FASHION](https://drive.google.com/open?id=181a0OAPjQI95bo794oUhfV7ZRXhJnuzP)
 * [2019-05-07 QCon: Building and running applications at scale in Zalando](files/2019-05-07-building.and_.running-pamela-canchanya_0.pdf)
