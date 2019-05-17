@@ -1,6 +1,7 @@
 # Public Zalando Tech Presentations
 
-*This repository is work-in-progress, please open a Pull Request to add public presentations.*
+This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
+We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2019
 
