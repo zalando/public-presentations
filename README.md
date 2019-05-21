@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2019
 
+* [2019-05-21 KubeCon Barcelona: Kubernetes Failure Stories](files/2019-05-21_Kubernetes_Failure_Stories_-_KubeCon_Europe.pdf)
 * [2019-05-17 PGDay Italy: PostgreSQL at low level: stay curious!](files/2019-05-17-PGDayIT-Stay-Curious.pdf)
 * [2019-05-17 CodingSerbia: Are we all on the same page? Let's fix that](files/2019-05-17_are_we_all_on_the_same_page-lets_fix_that.pdf)
 * [2019-05-16 CodingSerbia: Alerting, Monitoring and All That Jazz](files/2019-05-16_alerting_monitoring_and_all_that_jazz.pdf)
