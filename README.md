@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2019
 
+* [2019-06-04 Destination AARhus: Why we don't use the term DevOps](files/2019-06-04_Why_we_dont_use_the_term_DevOps_-_Destination_AARhus.pdf)
 * [2019-05-21 KubeCon Barcelona: Es operator: Building an Elasticsearch Operator From the Bottom Up](https://www.youtube.com/watch?v=lprE0J0kAq0) ([slides](files/2019-05-21_Es-operator__Building_an_Elasticsearch_Operator_From_the_Bottom_Up_-_KubeCon_EU_2019.pdf))
 * [2019-05-21 KubeCon Barcelona: Kubernetes Failure Stories](https://www.youtube.com/watch?v=6sDTB4eV4F8) ([slides](files/2019-05-21_Kubernetes_Failure_Stories_-_KubeCon_Europe.pdf))
 * [2019-05-17 PGDay Italy: PostgreSQL at low level: stay curious!](files/2019-05-17-PGDayIT-Stay-Curious.pdf)
