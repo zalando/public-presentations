@@ -36,6 +36,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2018-09-28 Agile Greece Summit 2018: Organized Autonomy: Cracking the Paradox by Eric Bowman](https://www.youtube.com/watch?v=xjOb_lQQ7fc)
 * [2018-09-25 DevOps Lisbon Meetup 2018: Kubernetes at Zalando](https://www.youtube.com/watch?v=NsjYhSxgeP0)
 * [2018-09-07 Container Camp UK 2018: Running Kubernetes in Production: A Million Ways to Crash Your Cluster](https://www.slideshare.net/try_except_/running-kubernetes-in-production-a-million-ways-to-crash-your-cluster-container-camp-uk)
+* [2018-07-24 Data Engineering Meetup Berlin: Enabling Machine Learning at Zalando](https://www.youtube.com/watch?v=G0H462T5jhA)
 * [2018-05-04 KubeCon Copenhagen 2018: Continuously Deliver your Kubernetes Infrastructure](https://www.youtube.com/watch?v=1xHmCrd8Qn8)
 * [2018-03-28 DevOps Gathering 2018: CI/CD at Zalando](https://www.youtube.com/watch?v=XXzQbBEqeXw)
 * [2018-03-13 JavaLand 2018: Resiliente Microservices mit Spring Boot und Failsafe](files/2018-03-13-EinstuerzendeNeubauten-ResilienteMicroservices.pdf)
