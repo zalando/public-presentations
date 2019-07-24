@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2019
+* [2019-07-23 Dublin Scala Meetup: Functional resource safety management in Scala](files/2019-07-23_Functional_resource_safety_management_in_Scala.pdf)
 * [2019-07-03 Agile Testing Munich: Agile Testing @ Zalando](files/2019-07-03_Agile_Testing.pdf)
 * [2019-06-26 ContainerDays Hamburg: Kubernetes Failure Stories, or: How to Crash Your Cluster](https://www.youtube.com/watch?v=LpFApeaGv7A)
 * [2019-06-20 Data Engineering Meetup Berlin: Nakadi SQL - SQL Engine for Streaming Queries over Nakadi Event Types](https://www.youtube.com/watch?v=wPxn7lBSUnQ)
