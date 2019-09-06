@@ -4,7 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2019
-* [2019-09-05 Cloud Native Prague: Kubernetes + Python = ❤](files/files/2019-09-05_Kubernetes_+_Python_=_Love_-_Cloud_Native_Prague.pdf)
+* [2019-09-05 Cloud Native Prague: Kubernetes + Python = ❤](files/2019-09-05_Kubernetes_+_Python_=_Love_-_Cloud_Native_Prague.pdf)
 * [2019-08-23 Python Pizza Night Berlin: Kubernetes operators in Python with Kopf](files/2019-09-23-python-pizza-night-berlin-kubernetes-operators-in-python-with-kopf.pdf)
 * [2019-07-23 Dublin Scala Meetup: Functional resource safety management in Scala](files/2019-07-23_Functional_resource_safety_management_in_Scala.pdf)
 * [2019-07-03 Agile Testing Munich: Agile Testing @ Zalando](files/2019-07-03_Agile_Testing.pdf)
