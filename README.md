@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2019
+* [2019-09-10 Continuous Testing Meetup Berlin: End-to-end load testing at scale](files/2019-09-10-end-to-end-load-testing-at-scale-Continuous-Testing-Meetup.pdf)
 * [2019-09-05 AWS Finland September Meetup: Using Amazon Neptune to build Fashion Knowledge Graph](files/2019-09-05_AWS_Finland_Meetup-Using_Amazon_Neptune_to_build_Fashion_Knowledge_Graph.pdf)
 * [2019-09-05 Cloud Native Prague: Kubernetes + Python = ❤](files/2019-09-05_Kubernetes_+_Python_=_Love_-_Cloud_Native_Prague.pdf)
 * [2019-08-23 Python Pizza Night Berlin: Kubernetes operators in Python with Kopf](files/2019-09-23-python-pizza-night-berlin-kubernetes-operators-in-python-with-kopf.pdf)
