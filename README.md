@@ -4,7 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2019
-* [2019-10-03 SREcon EMEA Are we all on the same page? Let's fix that](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf)
+* [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf)
 * [2019-09-26 OWL Tech & Innovation Day: Why Kubernetes? Cloud Native and Developer Experience at Zalando](files/2019-09-26_Why_Kubernetes__Cloud_Native_and_Developer_Experience_at_Zalando_-_OWL_Tech_Innovation_Day.pdf)
 * [2019-09-10 Continuous Testing Meetup Berlin: End-to-end load testing at scale](files/2019-09-10-end-to-end-load-testing-at-scale-Continuous-Testing-Meetup.pdf)
 * [2019-09-05 AWS Finland September Meetup: Using Amazon Neptune to build Fashion Knowledge Graph](files/2019-09-05_AWS_Finland_Meetup-Using_Amazon_Neptune_to_build_Fashion_Knowledge_Graph.pdf)
