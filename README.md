@@ -37,7 +37,7 @@ for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Del
 * [2019-04-18 CNCF End User SIG-DX: Developer Experience at Zalando](files/2019-04-18-developerexperienceatzalando-cncfendusersig-dx-190418193313.pdf)
 * [2019-04-02 Codemotion Amsterdam: First Steps As A Lead - Dan Persa](https://www.youtube.com/watch?v=5daG78EhLco)
 * [2019-04-02 microXchg Berlin 2019: Operating Elasticsearch in Kubernetes](files/2019-04-02-operatingelasticsearchinkubernetes-microxchg-190404205049.pdf)
-* [2019-03-21 Data Engineering Meetup Berlin: Data Infrastructure as Code](https://www.youtube.com/watch?v=ASB-uKSP2S4)
+* [2019-03-21 Data Engineering Meetup Berlin: Data Infrastructure as Code](https://www.youtube.com/watch?v=ASB-uKSP2S4) ([slides](files/2019-03-21_Data_Infrastructure_as_Code.pdf))
 * [2019-03-13 DevOps Gathering 2019: Ensuring Kubernetes Cost Efficiency across (many) Clusters](https://www.youtube.com/watch?v=4QyecOoPsGU) ([slides](https://www.slideshare.net/try_except_/ensuring-kubernetes-cost-efficiency-across-many-clusters-devops-gathering-2019))
 * [2019-02-11 Hamburg Meetup: Kubernetes Failure Stories](files/2019-02-11_Kubernetes_Failure_Stories_-_Hamburg_Meetup.pdf)
 * [2019-02-03 FOSDEM: Nakadi: Streaming Events for 100s of Teams](https://video.fosdem.org/2019/UA2.118/nakadi.mp4)
