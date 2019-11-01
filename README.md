@@ -8,7 +8,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
 * [2019-10-17 ACID ORC, Iceberg and Delta Lake - An Overview of Table Formats
 for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Delta_Lake.pdf)
-* [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf)
+* [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf) ([Video](https://www.youtube.com/watch?v=v0DSR03az7A))
 * [2019-10-03 OpenInfra Nordics: Kubernetes and Developer Experience at Zalando](https://www.youtube.com/watch?v=YBjm4Cwnqfc)
 * [2019-09-26 OWL Tech & Innovation Day: Why Kubernetes? Cloud Native and Developer Experience at Zalando](https://www.youtube.com/watch?v=9MvpGQnZHno) ([slides](files/2019-09-26_Why_Kubernetes__Cloud_Native_and_Developer_Experience_at_Zalando_-_OWL_Tech_Innovation_Day.pdf))
 * [2019-09-10 Continuous Testing Meetup Berlin: End-to-end load testing at scale](files/2019-09-10-end-to-end-load-testing-at-scale-Continuous-Testing-Meetup.pdf)
