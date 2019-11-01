@@ -8,7 +8,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
 * [2019-10-17 ACID ORC, Iceberg and Delta Lake - An Overview of Table Formats
 for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Delta_Lake.pdf)
-* [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf) ([Video](https://www.youtube.com/watch?v=v0DSR03az7A))
+* [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](https://www.youtube.com/watch?v=v0DSR03az7A) ([slides](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf))
 * [2019-10-03 OpenInfra Nordics: Kubernetes and Developer Experience at Zalando](https://www.youtube.com/watch?v=YBjm4Cwnqfc)
 * [2019-09-26 OWL Tech & Innovation Day: Why Kubernetes? Cloud Native and Developer Experience at Zalando](https://www.youtube.com/watch?v=9MvpGQnZHno) ([slides](files/2019-09-26_Why_Kubernetes__Cloud_Native_and_Developer_Experience_at_Zalando_-_OWL_Tech_Innovation_Day.pdf))
 * [2019-09-10 Continuous Testing Meetup Berlin: End-to-end load testing at scale](files/2019-09-10-end-to-end-load-testing-at-scale-Continuous-Testing-Meetup.pdf)
@@ -21,7 +21,7 @@ for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Del
 * [2019-06-20 GraphQL Conf: Compiling GraphQL to be Blazing Fast](https://www.youtube.com/watch?v=kdMyfO9IlLA)
 * [2019-06-20 Data Engineering Meetup Berlin: Nakadi SQL - SQL Engine for Streaming Queries over Nakadi Event Types](https://www.youtube.com/watch?v=wPxn7lBSUnQ)
 * [2019-06-20 OpenExpo Europe Madrid: Open Source Within Corporate Walls](files/2019-06-20_Open_Source_Within_Corporate_Walls-OpenEXPO_Madrid%20.pdf)
-* [2019-06-18 MICES: Coping with the challenge of sorting large product catalogs](files/2019-06-18-coping-with-the-challenge-of-sorting-large-product-catalogs.pdf)([Video](https://www.youtube.com/watch?v=LXebAmdAQrY))
+* [2019-06-18 MICES: Coping with the challenge of sorting large product catalogs](https://www.youtube.com/watch?v=LXebAmdAQrY) ([slides](files/2019-06-18-coping-with-the-challenge-of-sorting-large-product-catalogs.pdf))
 * [2019-06-13 DevOpsCon Berlin: Why we don’t use the Term DevOps: the Journey to a Product Mindset](files/2019-06-13_Why_we_dont_use_the_term_DevOps_-_DevOpsCon_Berlin.pdf)
 * [2019-06-04 Destination AARhus: Why we don't use the term DevOps](files/2019-06-04_Why_we_dont_use_the_term_DevOps_-_Destination_AARhus.pdf)
 * [2019-05-21 KubeCon Barcelona: Es operator: Building an Elasticsearch Operator From the Bottom Up](https://www.youtube.com/watch?v=lprE0J0kAq0) ([slides](files/2019-05-21_Es-operator__Building_an_Elasticsearch_Operator_From_the_Bottom_Up_-_KubeCon_EU_2019.pdf))
