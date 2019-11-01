@@ -21,6 +21,7 @@ for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Del
 * [2019-06-20 GraphQL Conf: Compiling GraphQL to be Blazing Fast](https://www.youtube.com/watch?v=kdMyfO9IlLA)
 * [2019-06-20 Data Engineering Meetup Berlin: Nakadi SQL - SQL Engine for Streaming Queries over Nakadi Event Types](https://www.youtube.com/watch?v=wPxn7lBSUnQ)
 * [2019-06-20 OpenExpo Europe Madrid: Open Source Within Corporate Walls](files/2019-06-20_Open_Source_Within_Corporate_Walls-OpenEXPO_Madrid%20.pdf)
+* [2019-06-18 MICES: Coping with the challenge of sorting large product catalogs](files/2019-06-18-coping-with-the-challenge-of-sorting-large-product-catalogs.pdf)([Video](https://www.youtube.com/watch?v=LXebAmdAQrY))
 * [2019-06-13 DevOpsCon Berlin: Why we don’t use the Term DevOps: the Journey to a Product Mindset](files/2019-06-13_Why_we_dont_use_the_term_DevOps_-_DevOpsCon_Berlin.pdf)
 * [2019-06-04 Destination AARhus: Why we don't use the term DevOps](files/2019-06-04_Why_we_dont_use_the_term_DevOps_-_Destination_AARhus.pdf)
 * [2019-05-21 KubeCon Barcelona: Es operator: Building an Elasticsearch Operator From the Bottom Up](https://www.youtube.com/watch?v=lprE0J0kAq0) ([slides](files/2019-05-21_Es-operator__Building_an_Elasticsearch_Operator_From_the_Bottom_Up_-_KubeCon_EU_2019.pdf))
