@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2019
 
+* [2019-10-28 Haystack EU: How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://www.youtube.com/watch?v=nCtM4Xg7e4k) ([slides](files/2019-10-28-haystack-learning-to-rank-with-multiple-objectives.pdf))
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
 * [2019-10-17 ACID ORC, Iceberg and Delta Lake - An Overview of Table Formats
 for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Delta_Lake.pdf)
