@@ -6,6 +6,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2019
 
 * [2019-12-04 PottJS: Learnings from 4 Years of TypeScript](files/2019-12-04_PottJS_Learnings_from_4_Years_of_TypeScript.pdf)
+* [2019-11-20 KubeCon San Diego 2019: Developing Operators with Kubernetes Operators Pythonic Framework "Kopf"](https://youtu.be/rN_rQU92T5s) ([slides](https://speakerdeck.com/nolar/developing-operators-with-kubernetes-operator-pythonic-framework-kopf), [PDF](files/2019-11-20_Kubernetes_Operators_Pythonic_Framework_KubeCon_San_Diego_2019.pdf))
 * [2019-11-07 OSB Open Source Day: Open Source at Zalando](files/2019-11-07_Open_Source_at_Zalando_-_OSB_Open_Source_Day.pdf)
 * [2019-11-04 RabbitMQ Summit 2019: Monitoring & scaling based on RabbitMQ telemetry](https://youtu.be/jCEwYPedJdw)
 * [2019-10-28 Haystack EU: How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://www.youtube.com/watch?v=nCtM4Xg7e4k) ([slides](files/2019-10-28-haystack-learning-to-rank-with-multiple-objectives.pdf))
