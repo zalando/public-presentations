@@ -9,6 +9,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-12-03 AWS re:Invent: Machine learning at Zalando](https://youtu.be/fgLlEnhFZQA?t=1191)
 * [2019-12-03 AWS re:Invent: Zalando's technology journey](https://www.youtube.com/watch?v=UMFgLDk4nwQ&feature=youtu.be&t=2842)
 * [2019-12-04 PottJS: Learnings from 4 Years of TypeScript](files/2019-12-04_PottJS_Learnings_from_4_Years_of_TypeScript.pdf)
+* [2019-11-28 Scale Up 360° Better Software 2019: Simplifying Application Management in Kubernetes](https://youtu.be/AWB1kmX1WkQ) ([PDF](files/2019-11-28_StackSets_Simplifying_application_management_in_Kubernetes_-_ScaleUp_360.pdf))
 * [2019-11-20 KubeCon San Diego 2019: Developing Operators with Kubernetes Operators Pythonic Framework "Kopf"](https://youtu.be/rN_rQU92T5s) ([slides](https://speakerdeck.com/nolar/developing-operators-with-kubernetes-operator-pythonic-framework-kopf), [PDF](files/2019-11-20_Kubernetes_Operators_Pythonic_Framework_KubeCon_San_Diego_2019.pdf))
 * [2019-11-07 OSB Open Source Day: Open Source at Zalando](files/2019-11-07_Open_Source_at_Zalando_-_OSB_Open_Source_Day.pdf)
 * [2019-11-04 RabbitMQ Summit 2019: Monitoring & scaling based on RabbitMQ telemetry](https://youtu.be/jCEwYPedJdw)
