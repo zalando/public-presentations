@@ -1,0 +1,21 @@
+---
+minimum_pre_commit_version: 1.17.0
+fail_fast: false
+default_stages: [commit, push]
+repos:
+  # meta
+
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+
+  # miscellaneous
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.0.0
+    hooks:
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: detect-private-key
+      - id: mixed-line-ending
