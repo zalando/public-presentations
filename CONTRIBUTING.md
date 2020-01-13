@@ -10,4 +10,3 @@ If you need help, please reach out to us by opening an issue.
 * slides should be uploaded as PDF
 * recorded videos can be linked (e.g. YouTube)
 * entries should be sorted by time (more recent on top)
-
