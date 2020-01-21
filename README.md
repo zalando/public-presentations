@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2019
 
+* [2020-01-20 Search Technology Meetup: Machine Learned Search - setting up a production pipeline](files/2020-01-20_Machine_Learned_search_-_Setting_up_a_production_pipeline_-_Meetup.pdf)
 * [2019-12-05 AWS re:Invent: How Zalando runs Kubernetes clusters at scale on AWS](https://www.youtube.com/watch?v=_BEf7vVxMjA) ([slides](https://www.slideshare.net/try_except_/how-zalando-runs-kubernetes-clusters-at-scale-on-aws-aws-reinvent), [PDF](files/2019-12-05_How_Zalando_runs_Kubernetes_clusters_at_scale_on_AWS_-_OPN211_-_AWS_re_Invent.pdf))
 * [2019-12-03 AWS re:Invent: Machine learning at Zalando](https://youtu.be/fgLlEnhFZQA?t=1191)
 * [2019-12-03 AWS re:Invent: Zalando's technology journey](https://www.youtube.com/watch?v=UMFgLDk4nwQ&feature=youtu.be&t=2842)
