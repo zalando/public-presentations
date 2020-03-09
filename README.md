@@ -26,7 +26,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-10-28 Haystack EU: How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://www.youtube.com/watch?v=nCtM4Xg7e4k) ([slides](files/2019-10-28-haystack-learning-to-rank-with-multiple-objectives.pdf))
 * [2019-10-24 GOTO Berlin: Why I love Kubernetes Failure Stories and you should too](https://www.youtube.com/watch?v=E0GBU8Q-VFY) ([slides](https://www.slideshare.net/try_except_/why-i-love-kubernetes-failure-stories-and-you-should-too-goto-berlin))
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
-* [2019-10-17 Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks](https://www.youtube.com/watch?v=YmG7bYMJVg4) ([slides](files/2019-10-17-Building_AI_Powered_Retail_Experience_With_Delta_Lake_Spark_and_Databricks.pdf))
+* [2019-10-17 Databricks Spark AI Summit - Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks](https://www.youtube.com/watch?v=YmG7bYMJVg4) ([slides](files/2019-10-17-Building_AI_Powered_Retail_Experience_With_Delta_Lake_Spark_and_Databricks.pdf))
 * [2019-10-17 ACID ORC, Iceberg and Delta Lake - An Overview of Table Formats
 for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Delta_Lake.pdf)
 * [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](https://www.youtube.com/watch?v=v0DSR03az7A) ([slides](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf))
