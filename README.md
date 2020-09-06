@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2020
+* [2020-02-04 AWS This is My Architecture - Zalando: Highly Scalable Data Processing Pipeline](https://www.youtube.com/watch?v=RxAmb57NCPM)
 * [2020-01-29 HU Berlin Guest Lecture: Continuous Delivery at Zalando](files/2020-01-29_Continuous_Delivery_at_Zalando_-_HU_Berlin_Guest_Lecture.pdf)
 * [2020-01-23 Go Days Berlin: Integration testing with TestContainers-Go](files/2020-01-23-Integration-testing-with-TestContainers-Go.pdf)
 * [2020-01-20 Search Technology Meetup: Machine Learned Search - setting up a production pipeline](files/2020-01-20_Machine_Learned_search_-_Setting_up_a_production_pipeline_-_Meetup.pdf)
@@ -25,6 +26,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-10-28 Haystack EU: How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://www.youtube.com/watch?v=nCtM4Xg7e4k) ([slides](files/2019-10-28-haystack-learning-to-rank-with-multiple-objectives.pdf))
 * [2019-10-24 GOTO Berlin: Why I love Kubernetes Failure Stories and you should too](https://www.youtube.com/watch?v=E0GBU8Q-VFY) ([slides](https://www.slideshare.net/try_except_/why-i-love-kubernetes-failure-stories-and-you-should-too-goto-berlin))
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
+* [2019-10-17 Databricks Spark AI Summit - Building an AI-Powered Retail Experience with Delta Lake, Spark, and Databricks](https://www.youtube.com/watch?v=YmG7bYMJVg4) ([slides](files/2019-10-17-Building_AI_Powered_Retail_Experience_With_Delta_Lake_Spark_and_Databricks.pdf))
 * [2019-10-17 ACID ORC, Iceberg and Delta Lake - An Overview of Table Formats
 for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Delta_Lake.pdf)
 * [2019-10-03 SREcon EMEA: Are we all on the same page? Let's fix that](https://www.youtube.com/watch?v=v0DSR03az7A) ([slides](files/2019-10-03_are_we_all_on_the_same_page-lets_fix_that.pdf))
