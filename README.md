@@ -3,6 +3,10 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2021
+
+* [2021-01-21 CTO-CTO Podcast: Zalando Microservices / 20. Pioneers. with Jan Hegewald, Director of Engineering at Zalando](https://www.cto-cto.com/podcast/20-pioneers-with-jan-hegewald-director-of-engineering-at-zalando)
+
 ## 2020
 * [2020-08-18 KubeCon Europe 2020: Autoscaling at Scale: How We Manage Capacity @ Zalando](https://www.youtube.com/watch?v=XTUsVK9F_Ds)
 * [2020-02-04 AWS This is My Architecture - Zalando: Highly Scalable Data Processing Pipeline](https://www.youtube.com/watch?v=RxAmb57NCPM)
