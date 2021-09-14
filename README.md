@@ -121,6 +121,7 @@ for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Del
 
 * [2015-10-29 AWS Enterprise Webday: STUPS – Eine Cloud Infrastruktur für autonome Teams](https://www.youtube.com/watch?v=20Ji-rXkG2Q)
 * [2015-09-03 DevOps Meetup Dublin: ZMON: Monitoring Zalando's Engineering Platform](files/2015-09-03-zmon-meetup-dublin-1-150910111815-lva1-app6891.pdf)
+* [2015-05-26 JBCNConf: Auto-scaling your API: Insights and Tips from the Zalando Team](files/2015-06-26-Auto-scaling_your_API-Insights_and_Tips_from_the_Zalando_Team.pdf)
 * [2015-06-01 DevOps Con 2015: Radical Agility with Autonomous Teams and Microservices in the Cloud](files/2015-06-01-devopscon2015-radicalagilitywithautonomousteamsandmicroservicesinthecloud-150601153822-lva1-app6891.pdf) ([YouTube](https://www.youtube.com/watch?v=IujDeMdXAgA))
 
 ## 2014
