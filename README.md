@@ -4,7 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2021
-
+* [2021-09-27 How Zalando Adopted Kotlin (Talking Kotlin #104)](https://www.youtube.com/watch?v=Lv9VZ-W3y18)
 * [2021-04-14 Berlin GraphQL meetup: Scaling GraphQL at Zalando](https://www.youtube.com/watch?v=eed6tEoqLg8)
 * [2021-01-21 CTO-CTO Podcast: Zalando Microservices / 20. Pioneers. with Jan Hegewald, Director of Engineering at Zalando](https://www.cto-cto.com/podcast/20-pioneers-with-jan-hegewald-director-of-engineering-at-zalando)
 
