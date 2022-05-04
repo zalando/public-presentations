@@ -3,6 +3,9 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2022
+* [2022-05-03 Platform Engineering webinar: Cloud native developer experience at Zalando](https://www.youtube.com/watch?v=4EGTa8u-7Ws)
+
 ## 2021
 * [2021-11-10 Droidcon Berlin: Extend your Reality with AR](https://www.droidcon.com/2021/11/10/extend-your-reality-with-ar/)
 * [2021-11-10 Droidcon Berlin: Scaling App Development at Zalando](https://www.droidcon.com/2021/11/10/scaling-app-development-at-zalando/)
