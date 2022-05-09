@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2022
+* [2022-05-09 SLOconf 2022: Operation Based SLOs](https://www.youtube.com/watch?v=LYLJN6p0gzQ&list=PLLNq9CBV7AFy4yGD9GrtpjZqsvM7lqpeb&index=13)
 * [2022-05-03 Platform Engineering webinar: Cloud native developer experience at Zalando](https://www.youtube.com/watch?v=4EGTa8u-7Ws)
 
 ## 2021
