@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2022
+* [2022-06-22 DevOpsCon Berlin: Zalando's Quest for Operating 10K Micro Services](files/2022-06-22-DevOpsCon-Berlin-Zalando-Quest.pdf)
 * [2022-06-14 Elasticsearch Berlin meetup: Enriching E-Commerce Search with Elasticsearch 8's k-Nearest Neighbours](https://www.youtube.com/watch?v=YthR1ROX2g8)
 * [2022-05-24 AWS Finland meetup: CloudFront authentication and Lambda@Edge](files/2022-05-24_CloudFront_authentication_and_Lambda_at_Edge-AWS_Finland_meetup.pdf)
 * [2022-05-09 SLOconf 2022: Operation Based SLOs](https://www.youtube.com/watch?v=LYLJN6p0gzQ&list=PLLNq9CBV7AFy4yGD9GrtpjZqsvM7lqpeb&index=13)
