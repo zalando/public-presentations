@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2022
+* [2022-10-18 DataTalks.Club: Machine Learning Workflows in Production](https://www.youtube.com/watch?v=CO4Gqd95j6k)
 * [2022-06-22 DevOpsCon Berlin: Zalando's Quest for Operating 10K Micro Services](files/2022-06-22-DevOpsCon-Berlin-Zalando-Quest.pdf)
 * [2022-06-17 WomenTech 2022: Tech and Fashion: How to use Machine Learning to create personalised shopping experiences by Tian Su](https://www.youtube.com/watch?v=LuL3-MaSRcY)
 * [2022-06-17 WomenTech 2022: Get Prepared: The Hiring Process at Zalando](https://www.youtube.com/watch?v=PJIH3dJdmk4)
