@@ -6,7 +6,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2022
 * [2022-10-20 Building Scalable Frontends at Zalando](files/2022-10-20-Dublin-Scalable-Frontends.pdf)
 * [2022-10-20 Kubernetes Native Change Data Capture](files/2022-10-20-Dublin-Kubernetes-Native-Change-Data-Capture.pdf)
-* [2022-10-12 Architecting Backends to Service Millions of RPS](files/2022-10-20-Dublin-Architecting-Backends-to-Serve-Millions-of-RPS.pdf)
+* [2022-10-20 Architecting Backends to Service Millions of RPS](files/2022-10-20-Dublin-Architecting-Backends-to-Serve-Millions-of-RPS.pdf)
 * [2022-10-18 DataTalks.Club: Machine Learning Workflows in Production](https://www.youtube.com/watch?v=CO4Gqd95j6k)
 * [2022-06-22 DevOpsCon Berlin: Zalando's Quest for Operating 10K Micro Services](files/2022-06-22-DevOpsCon-Berlin-Zalando-Quest.pdf)
 * [2022-06-17 WomenTech 2022: Tech and Fashion: How to use Machine Learning to create personalised shopping experiences by Tian Su](https://www.youtube.com/watch?v=LuL3-MaSRcY)
