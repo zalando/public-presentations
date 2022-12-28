@@ -30,6 +30,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2021-01-21 CTO-CTO Podcast: Zalando Microservices / 20. Pioneers. with Jan Hegewald, Director of Engineering at Zalando](https://www.cto-cto.com/podcast/20-pioneers-with-jan-hegewald-director-of-engineering-at-zalando)
 
 ## 2020
+* [2020-10-19 NDC Oslo 2020: Data Mesh in Practice](https://www.youtube.com/watch?v=Bj0GQ9HSPLM)
 * [2020-08-18 KubeCon Europe 2020: Autoscaling at Scale: How We Manage Capacity @ Zalando](https://www.youtube.com/watch?v=XTUsVK9F_Ds)
 * [2020-02-04 AWS This is My Architecture - Zalando: Highly Scalable Data Processing Pipeline](https://www.youtube.com/watch?v=RxAmb57NCPM)
 * [2020-01-29 HU Berlin Guest Lecture: Continuous Delivery at Zalando](files/2020-01-29_Continuous_Delivery_at_Zalando_-_HU_Berlin_Guest_Lecture.pdf)
