@@ -27,6 +27,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2021-09-09 Berlin GraphQL meetup: Using GraphQL to manage contributions from multiple teams](https://www.youtube.com/watch?app=desktop&v=rATfJAV-Ydc&list=PLn2e1F9Rfr6ld32vrXcdVS6JGzndBcsqk&index=4)
 * [2021-05-17 SLOConf: The state of the Histogram](https://www.youtube.com/watch?v=Z-5PNlv8eK0)
 * [2021-04-14 Berlin GraphQL meetup: Scaling GraphQL at Zalando](https://www.youtube.com/watch?v=eed6tEoqLg8)
+* [2021-04-14 AI in Retail & Marketing Virtual Summit 2021: AI in Fashion Size & Fit](https://www.youtube.com/watch?v=Te9Ug0oc8kk)
 * [2021-01-21 CTO-CTO Podcast: Zalando Microservices / 20. Pioneers. with Jan Hegewald, Director of Engineering at Zalando](https://www.cto-cto.com/podcast/20-pioneers-with-jan-hegewald-director-of-engineering-at-zalando)
 
 ## 2020
