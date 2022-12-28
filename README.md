@@ -21,6 +21,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2021
 * [2021-11-10 Droidcon Berlin: Extend your Reality with AR](https://www.droidcon.com/2021/11/10/extend-your-reality-with-ar/)
 * [2021-11-10 Droidcon Berlin: Scaling App Development at Zalando](https://www.droidcon.com/2021/11/10/scaling-app-development-at-zalando/)
+* [2021-10-08 UXDX EMEA 2021: Weave: Transforming the Zalando Experience](https://www.youtube.com/watch?v=31ZvRjucuZY)
 * [2021-10-08 mobiconf: AppCraft: Lessons Learned building successful Backend Driven Mobile UI](https://www.youtube.com/watch?v=ef0dmpvYG5w)
 * [2021-10-06 P99CONF: How to Measure Latency](https://www.p99conf.io/session/how-to-measure-latency/)
 * [2021-09-27 Talking Kotlin #104: How Zalando Adopted Kotlin](https://www.youtube.com/watch?v=Lv9VZ-W3y18)
