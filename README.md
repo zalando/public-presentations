@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2022
 * [2022-12-06 AWS re:Invent 2022 - Store features across teams with Amazon Feature Store, feat. Zalando (AIM339)](https://www.youtube.com/watch?v=42_YO3sGEH4)
+* [2022-10-25 SREcon22 EMEA: Statistics for Engineers](https://youtu.be/awrMqCXZunc) ([description](https://www.usenix.org/conference/srecon22emea/presentation/hartmann))
 * [2022-10-20 Building Scalable Frontends at Zalando](files/2022-10-20-Dublin-Scalable-Frontends.pdf)
 * [2022-10-20 Kubernetes Native Change Data Capture](files/2022-10-20-Dublin-Kubernetes-Native-Change-Data-Capture.pdf)
 * [2022-10-20 Architecting Backends to Service Millions of RPS](files/2022-10-20-Dublin-Architecting-Backends-to-Serve-Millions-of-RPS.pdf)
