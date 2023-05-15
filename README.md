@@ -3,6 +3,9 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2023
+* [2023-05-15 SLOconf 2023: Driving engineering priorities with SLOs on critical business operations](https://www.youtube.com/watch?v=diUOjC109Mw)
+
 ## 2022
 * [2022-12-06 AWS re:Invent 2022 - Store features across teams with Amazon Feature Store, feat. Zalando (AIM339)](https://www.youtube.com/watch?v=42_YO3sGEH4)
 * [2022-10-25 SREcon22 EMEA: Meatbag Systems: How Our Reliability Culture & Practice Evolved over Time](https://youtu.be/zjTP8Y2D7uM) ([description](https://www.usenix.org/conference/srecon22emea/presentation/howden))
