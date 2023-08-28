@@ -5,6 +5,8 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2023
 * [2023-05-15 SLOconf 2023: Driving engineering priorities with SLOs on critical business operations](https://www.youtube.com/watch?v=diUOjC109Mw)
+* [2023-07-06 DroidCon Berlin: Code metrics for your app](https://www.droidcon.com/2023/07/31/code-metrics-for-your-app/)
+* [2023-07-06 DroidCon Berlin: A Small Leak Can Sink A Great Ship](https://www.droidcon.com/2023/08/01/a-small-leak-can-sink-a-great-ship/)
 
 ## 2022
 * [2022-12-06 AWS re:Invent 2022 - Store features across teams with Amazon Feature Store, feat. Zalando (AIM339)](https://www.youtube.com/watch?v=42_YO3sGEH4)
