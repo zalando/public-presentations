@@ -3,6 +3,9 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2024
+* [2024-03-05 PostgreSQL Meet-up Berlin March in Zalando](files/2024-03-05_PostgreSQL_Berlin_March_Meetup.pdf)
+
 ## 2023
 * [2023-10-10 DevOps Finland: APEC - How to ensure your application is operated properly?](files/2023-10-10_APEC-How_to_ensure_your_application_is_operated_properly.pdf)
 * [2023-07-06 DroidCon Berlin: Code metrics for your app](https://www.droidcon.com/2023/07/31/code-metrics-for-your-app/)
