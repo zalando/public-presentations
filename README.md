@@ -5,6 +5,8 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2024
 * [2024-03-05 PostgreSQL Meet-up Berlin March hosted by Zalando](files/2024-03-05_PostgreSQL_Berlin_March_Meetup.pdf)
+* [2024-03-14 Server Driven UI @ Zalando](files/2024-03-14_Dublin_Server-Driven-UI-@-Zalando.pdf)
+* [2024-03-14 Building Interpreters](files/2024-03-14_Dublin_Building-Interpreters.pdf)
 
 ## 2023
 * [2023-10-10 DevOps Finland: APEC - How to ensure your application is operated properly?](files/2023-10-10_APEC-How_to_ensure_your_application_is_operated_properly.pdf)
