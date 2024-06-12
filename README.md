@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2024
+* [2024-06-11 How Zalando's Internal Developer Portal makes >2000 Engineers More Productive](files/2024-06-11-dpe_tour_berlin_sunrise_the_starting_point_for_builders.pdf)
 * [2024-03-14 Server Driven UI @ Zalando](files/2024-03-14_Dublin_Server-Driven-UI-@-Zalando.pdf)
 * [2024-03-14 Building Interpreters](files/2024-03-14_Dublin_Building-Interpreters.pdf)
 * [2024-03-05 PostgreSQL Meet-up Berlin March hosted by Zalando](files/2024-03-05_PostgreSQL_Berlin_March_Meetup.pdf)
