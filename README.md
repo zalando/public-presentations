@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2024
+* [2024-09-27 Women+ Data & AI Festival: Building Applications with LLMs](files/2024-09-27_Building_Applications_with_LLMs_Zalando_Assistant.pdf)
 * [2024-08-20 DevOps Finland: Production Readiness Review in Zalando](files/2024-08-20_Production_Readiness_Review_in_Zalando.pdf)
 * [2024-06-11 Mastering Unity Catalog: Lessons from Zalando's Adoption Journey](https://www.youtube.com/watch?v=tUAgc2PnUy4)
 * [2024-06-11 How Zalando's Internal Developer Portal makes >2000 Engineers More Productive](files/2024-06-11-dpe_tour_berlin_sunrise_the_starting_point_for_builders.pdf)
