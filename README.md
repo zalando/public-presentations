@@ -6,7 +6,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2024
 * [2024-09-27 Women+ Data & AI Festival: Building Applications with LLMs](files/2024-09-27_Building_Applications_with_LLMs_Zalando_Assistant.pdf)
 * [2024-08-20 DevOps Finland: Production Readiness Review in Zalando](files/2024-08-20_Production_Readiness_Review_in_Zalando.pdf)
-* [2024-06-11 goto; Amsterdam: A field guide to Reliability Engineering at Zalando](files/2024-06-11_GOTO_Amsterdam_-_A_field_guide_to_reliability_engineering.pdf)
+* [2024-06-11 goto; Amsterdam: A field guide to Reliability Engineering at Zalando](files/2024-06-11_GOTO_Amsterdam_-_A_field_guide_to_reliability_engineering.pdf) [video](https://www.youtube.com/watch?v=VAgT7CY572U&list=PLEx5khR4g7PLF7hWNLDJWyHGEuQGFqbQs)
 * [2024-06-11 Mastering Unity Catalog: Lessons from Zalando's Adoption Journey](https://www.youtube.com/watch?v=tUAgc2PnUy4)
 * [2024-06-11 How Zalando's Internal Developer Portal makes >2000 Engineers More Productive](files/2024-06-11-dpe_tour_berlin_sunrise_the_starting_point_for_builders.pdf)
 * [2024-03-14 Server Driven UI @ Zalando](files/2024-03-14_Dublin_Server-Driven-UI-@-Zalando.pdf)
