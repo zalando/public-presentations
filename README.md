@@ -4,8 +4,8 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
-* [2025-02-01 FOSDEM Go track lightning: pgx-outbox](files/2025-02-01-fosdem-go-ligtning-pgx-outbox.pdf) ([nikolayk812](https://github.com/nikolayk812))
-* [2025-01-22 Helsinki Gophers meetup: Transactional outbox pattern in Golang](files/2025-01-22-helsinki-gophers-transactional-outbox-pattern.pdf) ([nikolayk812](https://github.com/nikolayk812))
+* [2025-02-01 FOSDEM Go track (lightning talk): pgx-outbox](files/2025-02-01-fosdem-go-ligtning-pgx-outbox.pdf) 
+* [2025-01-22 Helsinki Gophers meetup: Transactional outbox pattern in Golang](files/2025-01-22-helsinki-gophers-transactional-outbox-pattern.pdf) 
 
 ## 2024
 * [2024-09-27 Women+ Data & AI Festival: Building Applications with LLMs](files/2024-09-27_Building_Applications_with_LLMs_Zalando_Assistant.pdf)
@@ -59,19 +59,19 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2020
 * [2020-10-19 NDC Oslo 2020: Data Mesh in Practice](https://www.youtube.com/watch?v=Bj0GQ9HSPLM)
 * [2020-08-18 KubeCon Europe 2020: Autoscaling at Scale: How We Manage Capacity @ Zalando](https://www.youtube.com/watch?v=XTUsVK9F_Ds)
-* [2020-06-18 GopherCon Europe 2020 (lightning): Integration Testing with TestContainers-Go](https://www.youtube.com/watch?v=LRVGe_Ds4UI) ([nikolayk812](https://github.com/nikolayk812))
+* [2020-06-18 GopherCon Europe 2020 (lightning talk): Integration Testing with TestContainers-Go](https://www.youtube.com/watch?v=LRVGe_Ds4UI) 
 * [2020-02-27 Big Data Warsaw 2020: Presto @ Zalando](https://www.slideshare.net/findepi/presto-zalando-big-data-tech-warsaw-2020)
 * [2020-02-04 AWS This is My Architecture - Zalando: Highly Scalable Data Processing Pipeline](https://www.youtube.com/watch?v=RxAmb57NCPM)
 * [2020-02-02 FOSDEM 2020: PostgreSQL on K8S at Zalando: Two years in production](https://archive.fosdem.org/2020/schedule/event/postgresql_postgresql_on_k8s_at_zalando_two_years_in_production/)
 * [2020-01-29 HU Berlin Guest Lecture: Continuous Delivery at Zalando](files/2020-01-29_Continuous_Delivery_at_Zalando_-_HU_Berlin_Guest_Lecture.pdf)
-* [2020-01-23 Go Days Berlin: Integration testing with TestContainers-Go](https://www.youtube.com/watch?v=e4aU2bpERbo) ([slides](files/2020-01-23-Integration-testing-with-TestContainers-Go.pdf), [nikolayk812](https://github.com/nikolayk812), [erdemtoraman](https://github.com/erdemtoraman))
+* [2020-01-23 Go Days Berlin: Integration testing with TestContainers-Go](https://www.youtube.com/watch?v=e4aU2bpERbo) ([slides](files/2020-01-23-Integration-testing-with-TestContainers-Go.pdf)
 * [2020-01-20 Search Technology Meetup: Machine Learned Search - setting up a production pipeline](files/2020-01-20_Machine_Learned_search_-_Setting_up_a_production_pipeline_-_Meetup.pdf)
 * [2020-01-20 HPI Startup Talks: How I got proselytized - from large-scale standard ERP to custom-built micro services](https://www10-fms.hpi.uni-potsdam.de/SUT/SUT_2020_01_20.html) ([YouTube](https://www.youtube.com/watch?v=ZiQqBjTBjIs))
 
 
 ## 2019
 
-* [2019-12-09 Helsinki JUG meetup: Integration testing with TestContainers and JUnit 5](files/2019-12-09-Integration-testing-with-TestContainers-Java-and-JUnit-5.pdf) ([nikolayk812](https://github.com/nikolayk812))
+* [2019-12-09 Helsinki JUG meetup: Integration testing with TestContainers and JUnit 5](files/2019-12-09-Integration-testing-with-TestContainers-Java-and-JUnit-5.pdf) 
 * [2019-12-05 AWS re:Invent: How Zalando runs Kubernetes clusters at scale on AWS](https://www.youtube.com/watch?v=_BEf7vVxMjA) ([slides](https://www.slideshare.net/try_except_/how-zalando-runs-kubernetes-clusters-at-scale-on-aws-aws-reinvent), [PDF](files/2019-12-05_How_Zalando_runs_Kubernetes_clusters_at_scale_on_AWS_-_OPN211_-_AWS_re_Invent.pdf))
 * [2019-12-03 AWS re:Invent: Machine learning at Zalando](https://youtu.be/fgLlEnhFZQA?t=1191)
 * [2019-12-03 AWS re:Invent: Zalando's technology journey](https://www.youtube.com/watch?v=UMFgLDk4nwQ&feature=youtu.be&t=2842)
@@ -81,7 +81,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2019-11-13 Product Management Festival: Building Products Internal Teams Love](https://vimeo.com/380358329/5f656c0820)
 * [2019-11-07 OSB Open Source Day: Open Source at Zalando](files/2019-11-07_Open_Source_at_Zalando_-_OSB_Open_Source_Day.pdf)
 * [2019-11-04 RabbitMQ Summit 2019: Monitoring & scaling based on RabbitMQ telemetry](https://youtu.be/jCEwYPedJdw)
-* [2019-10-31 Voxxed Days Cluj Napoca: Integration and end-to-end testing with TestContainers and JUnit 5](https://www.youtube.com/watch?v=qpDOgGPpq3w) ([nikolayk812](https://github.com/nikolayk812))
+* [2019-10-31 Voxxed Days Cluj Napoca: Integration and end-to-end testing with TestContainers and JUnit 5](https://www.youtube.com/watch?v=qpDOgGPpq3w) 
 * [2019-10-28 Haystack EU: How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://www.youtube.com/watch?v=nCtM4Xg7e4k) ([slides](files/2019-10-28-haystack-learning-to-rank-with-multiple-objectives.pdf))
 * [2019-10-24 GOTO Berlin: Why I love Kubernetes Failure Stories and you should too](https://www.youtube.com/watch?v=E0GBU8Q-VFY) ([slides](https://www.slideshare.net/try_except_/why-i-love-kubernetes-failure-stories-and-you-should-too-goto-berlin))
 * [2019-10-23 PostgreSQL Finland October Meetup: PostgreSQL Monitoring in Zalando](files/2019-10-23_PostgreSQL_Monitoring_in_Zalando-PostgreSQL_Finland_Meetup.pdf)
@@ -99,7 +99,7 @@ for Large Scale Storage and Analytics](files/2019-10-17_ACID_ORC_Iceberg_and_Del
 * [2019-07-23 Dublin Scala Meetup: Functional resource safety management in Scala](files/2019-07-23_Functional_resource_safety_management_in_Scala.pdf)
 * [2019-07-03 Agile Testing Munich: Agile Testing @ Zalando](files/2019-07-03_Agile_Testing.pdf)
 * [2019-06-26 ContainerDays Hamburg: Kubernetes Failure Stories, or: How to Crash Your Cluster](https://www.youtube.com/watch?v=LpFApeaGv7A)
-* [2019-05-25 ContainerDays Hamburg: TestContainers + JUnit5 = elegant end-to-end tests for microservices](https://www.youtube.com/watch?v=wR3mP9NLn38)([nikolayk812](https://github.com/nikolayk812))
+* [2019-05-25 ContainerDays Hamburg: TestContainers + JUnit5 = elegant end-to-end tests for microservices](https://www.youtube.com/watch?v=wR3mP9NLn38)
 * [2019-06-20 GraphQL Conf: Compiling GraphQL to be Blazing Fast](https://www.youtube.com/watch?v=kdMyfO9IlLA)
 * [2019-06-20 Data Engineering Meetup Berlin: Nakadi SQL - SQL Engine for Streaming Queries over Nakadi Event Types](https://www.youtube.com/watch?v=wPxn7lBSUnQ)
 * [2019-06-20 OpenExpo Europe Madrid: Open Source Within Corporate Walls](files/2019-06-20_Open_Source_Within_Corporate_Walls-OpenEXPO_Madrid%20.pdf)
