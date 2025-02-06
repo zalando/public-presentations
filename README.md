@@ -4,7 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
-* [2025-02-01 FOSDEM Go track lightning: ](files/2025-02-01-fosdem-go-ligtning-pgx-outbox.pdf) ([nikolayk812](https://github.com/nikolayk812))
+* [2025-02-01 FOSDEM Go track lightning: pgx-outbox](files/2025-02-01-fosdem-go-ligtning-pgx-outbox.pdf) ([nikolayk812](https://github.com/nikolayk812))
 * [2025-01-22 Helsinki Gophers meetup: Transactional outbox pattern in Golang](files/2025-01-22-helsinki-gophers-transactional-outbox-pattern.pdf) ([nikolayk812](https://github.com/nikolayk812))
 
 ## 2024
