@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
+* [2025-02-19 Helsinki Java meetup: GenAI in Java with Langchain4j and Ollama](files/2025-02-19-helsinki-jug-genai-langchain4j-ollama.pdf)
 * [2025-02-04 PostgreSQL Meet-up Berlin February hosted by Zalando](files/2025_02_04_postgresql_berlin_february_meetup.pdf)
 * [2025-02-01 FOSDEM Go track (lightning talk): pgx-outbox](files/2025-02-01-fosdem-go-ligtning-pgx-outbox.pdf) 
 * [2025-01-22 Helsinki Gophers meetup: Transactional outbox pattern in Golang](files/2025-01-22-helsinki-gophers-transactional-outbox-pattern.pdf) 
