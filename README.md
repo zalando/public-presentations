@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
+* [2025-04-03 Conf42 Golang track: Practical guide to testing Go services](files/2025-04-03-conf42-practical-guide-testing-go.pdf) ([video](https://www.youtube.com/watch?v=AhfCgPbwjG4))
 * [2025-03-26 CloudConf: CloudOperations at Scale](files/2025-03-26-CloudConf-Cloud-Operations-at-Scale.pdf)
 * [2025-03-18 Helsinki Gophers meetup hosted by Zalando: Postgres Logical Replication in Go](files/2025-03-18-helsinki-gophers-postgres-logical-replication.pdf)
 * [2025-03-18 Helsinki Gophers meetup hosted by Zalando: GenAI with langchain-go and Ollama](files/2025-03-18-helsinki-gophers-genai-langchaingo-ollama.pdf)
