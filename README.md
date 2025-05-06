@@ -5,6 +5,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 
 ## 2025
 * [2025-04-03 Conf42 Golang track: Practical guide to testing Go services](files/2025-04-03-conf42-practical-guide-testing-go.pdf) ([video](https://www.youtube.com/watch?v=AhfCgPbwjG4))
+* [2025-04-01 KubeCon + CloudNativeCon Europe 2025: The State of GenAI & ML in the Cloud Native Ecosystem](files/2025-04-01-kubecon-ai-day-state-of-genai-cloud-native-ecosystem.pdf) ([video](https://youtu.be/0uJGmMZGUJE?list=PLj6h78yzYM2PRMe1c34bs0sdXo2mlsUov))
 * [2025-03-26 CloudConf: CloudOperations at Scale](files/2025-03-26-CloudConf-Cloud-Operations-at-Scale.pdf)
 * [2025-03-18 Helsinki Gophers meetup hosted by Zalando: Postgres Logical Replication in Go](files/2025-03-18-helsinki-gophers-postgres-logical-replication.pdf)
 * [2025-03-18 Helsinki Gophers meetup hosted by Zalando: GenAI with langchain-go and Ollama](files/2025-03-18-helsinki-gophers-genai-langchaingo-ollama.pdf)
