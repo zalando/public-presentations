@@ -4,8 +4,9 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
+* [2025-06-19 PostgreSQL meet-up Berlin: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-06-19-lifetime-of-a-select.pdf)
 * [2025-05-09 PGConf.DE 2025: What is Patroni, really?](files/2025-05-09_What_is_Patroni_really.pdf)
-* [2024-05-08 PGConf.DE 2025: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-05-08-lifetime-of-a-select.pdf)
+* [2025-05-08 PGConf.DE 2025: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-05-08-lifetime-of-a-select.pdf)
 * [2025-04-03 Conf42 Golang track: Practical guide to testing Go services](files/2025-04-03-conf42-practical-guide-testing-go.pdf) ([video](https://www.youtube.com/watch?v=AhfCgPbwjG4))
 * [2025-04-01 KubeCon + CloudNativeCon Europe 2025: The State of GenAI & ML in the Cloud Native Ecosystem](files/2025-04-01-kubecon-ai-day-state-of-genai-cloud-native-ecosystem.pdf) ([video](https://youtu.be/0uJGmMZGUJE?list=PLj6h78yzYM2PRMe1c34bs0sdXo2mlsUov))
 * [2025-03-26 CloudConf: CloudOperations at Scale](files/2025-03-26-CloudConf-Cloud-Operations-at-Scale.pdf)
