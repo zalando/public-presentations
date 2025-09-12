@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
+* [2025-09-10 ContainerDays Hamburg: Revisiting the Outbox Pattern in Go](files/2025-09-10_cds_hamburg_revisiting_outbox_pattern_go.pdf)
 * [2025-06-19 PostgreSQL meet-up Berlin: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-06-19-lifetime-of-a-select.pdf)
 * [2025-05-09 PGConf.DE 2025: What is Patroni, really?](files/2025-05-09_What_is_Patroni_really.pdf)
 * [2025-05-08 PGConf.DE 2025: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-05-08-lifetime-of-a-select.pdf)
