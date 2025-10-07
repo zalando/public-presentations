@@ -6,6 +6,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 ## 2025
 * [2025-10-07 GoLab Florence: Beyond sqlc: teaching AI to generate repositories and integration tests in Go](files/2025-10-07_GoLab_Florence_Beyond_sqlc.pdf)
 * [2025-09-10 ContainerDays Hamburg: Revisiting the Outbox Pattern in Go](files/2025-09-10_cds_hamburg_revisiting_outbox_pattern_go.pdf) ([video](https://www.youtube.com/watch?v=bITgYQZBnpo))
+* [2025-09-04 React Universe: Adopting cross-platform React Native at scale: Zalando's learnings from the ongoing migration](files/2025_09_04_react_universe_adopting_cross_platform_react_native_at_scale.pdf) ([video](https://youtu.be/U76fQ_9A89Q))
 * [2025-06-19 PostgreSQL meet-up Berlin: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-06-19-lifetime-of-a-select.pdf)
 * [2025-05-09 PGConf.DE 2025: What is Patroni, really?](files/2025-05-09_What_is_Patroni_really.pdf)
 * [2025-05-08 PGConf.DE 2025: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-05-08-lifetime-of-a-select.pdf)
