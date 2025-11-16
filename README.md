@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2025
+* [2025-11-05 Zalando x Callstack Webinar: Scaling React Native at Zalando: How Brownfield Migration Paid Off](https://www.callstack.com/events/scaling-react-native-at-zalando-lessons-from-brownfield-migration)
 * [2025-11-04 Helsinki Postgres meetup: SQL compiler (sqlc): code generation matters](files/2025-11-04_Helsinki_Postgres_sqlc.pdf)
 * [2025-10-21 PG Conf EU 2025: Meet-ups as Stepping Stones: Building a PG Community in Berlin](files/2025-10-21-meet-ups-as-stepping-stones.pdf)
 * [2025-10-07 GoLab Florence: Beyond sqlc: teaching AI to generate repositories and integration tests in Go](files/2025-10-07_GoLab_Florence_Beyond_sqlc.pdf)
