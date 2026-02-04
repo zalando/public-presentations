@@ -3,6 +3,9 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2026
+[2026-02-01 FOSDEM Go track: Extending sqlc: augmented generation of repositories in Go](files/2026-02-01_FOSDEM_Go_extending_sqlc.pdf)
+
 ## 2025
 * [2025-11-05 Zalando x Callstack Webinar: Scaling React Native at Zalando: How Brownfield Migration Paid Off](https://www.callstack.com/events/scaling-react-native-at-zalando-lessons-from-brownfield-migration)
 * [2025-11-04 Helsinki Postgres meetup: SQL compiler (sqlc): code generation matters](files/2025-11-04_Helsinki_Postgres_sqlc.pdf)
