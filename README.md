@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2026
+* [2026-04-22 PostgreSQL Conf Germany: Into the Woods: Finding Your Way with B-Trees in PostgreSQL](files/2026_04_22_pg_conf_de_2026_sergey_dudoladov_into_the_woods_finding_your_way_with_b_trees_in_postgresql.pdf)
 * [2026-02-12 ContainerDays London: Practical sqlc: leveraging SQL-first code generation in Go](files/2026-02-12_CDSL_practical_sqlc.pdf)
 * [2026-02-01 FOSDEM Go track: Extending sqlc: augmented generation of repositories in Go](files/2026-02-01_FOSDEM_Go_extending_sqlc.pdf) ([video](https://mirrors.dotsrc.org/fosdem/2026/ub5132/BRHJUC-extending_sqlc_augmented_generation_of_repositories_in_go.av1.webm))
 
