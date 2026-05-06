@@ -3,8 +3,15 @@
 This is a compiled list of public talks by Zalando Tech: meetup presentations, recorded conference talks, slides, etc.
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
+## 2026
+* [2026-02-12 ContainerDays London: Practical sqlc: leveraging SQL-first code generation in Go](files/2026-02-12_CDSL_practical_sqlc.pdf)
+* [2026-02-01 FOSDEM Go track: Extending sqlc: augmented generation of repositories in Go](files/2026-02-01_FOSDEM_Go_extending_sqlc.pdf) ([video](https://mirrors.dotsrc.org/fosdem/2026/ub5132/BRHJUC-extending_sqlc_augmented_generation_of_repositories_in_go.av1.webm))
+
 ## 2025
-* [2025-10-07 GoLab Florence: Beyond sqlc: teaching AI to generate repositories and integration tests in Go](files/2025-10-07_GoLab_Florence_Beyond_sqlc.pdf)
+* [2025-11-05 Zalando x Callstack Webinar: Scaling React Native at Zalando: How Brownfield Migration Paid Off](https://www.callstack.com/events/scaling-react-native-at-zalando-lessons-from-brownfield-migration)
+* [2025-11-04 Helsinki Postgres meetup: SQL compiler (sqlc): code generation matters](files/2025-11-04_Helsinki_Postgres_sqlc.pdf)
+* [2025-10-21 PG Conf EU 2025: Meet-ups as Stepping Stones: Building a PG Community in Berlin](files/2025-10-21-meet-ups-as-stepping-stones.pdf)
+* [2025-10-07 GoLab Florence: Beyond sqlc: teaching AI to generate repositories and integration tests in Go](files/2025-10-07_GoLab_Florence_Beyond_sqlc.pdf) ([video](https://www.youtube.com/watch?v=4-xOeWM8p9M))
 * [2025-09-10 ContainerDays Hamburg: Revisiting the Outbox Pattern in Go](files/2025-09-10_cds_hamburg_revisiting_outbox_pattern_go.pdf) ([video](https://www.youtube.com/watch?v=bITgYQZBnpo))
 * [2025-09-04 React Universe: Adopting cross-platform React Native at scale: Zalando's learnings from the ongoing migration](files/2025_09_04_react_universe_adopting_cross_platform_react_native_at_scale.pdf) ([video](https://youtu.be/U76fQ_9A89Q))
 * [2025-06-19 PostgreSQL meet-up Berlin: The Lifecycle of a SELECT: A blick into the depths of PostgreSQL internals](files/2025-06-19-lifetime-of-a-select.pdf)
