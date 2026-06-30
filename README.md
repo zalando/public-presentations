@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2026
+* [2026-06-26 Swiss PGDay (lightning talk): SQL-first application development with sqlc](files/2026-06-26_Swiss_PGDay_sqlc.pdf) ([video](https://www.youtube.com/watch?v=2rFV1KEuO-E))
 * [2026-06-17 Databricks Data + AI Summit 2026 San Francisco: Stop Arguing About Numbers: How Zalando Scales Governance with Unity Catalog and Metric Views](files/2026-06-17_stop-arguing-about-numbers_DAIS-2026.pdf)
 * [2026-05-20 KCD Helsinki: Type-safe Postgres access in cloud-native applications with sqlc](files/2026-05-20_KCD_Helsinki_sqlc.pdf)
 * [2026-04-28 DevOps Finland: A perfect storm: How a tiny change in a CMS once broke up the Fashion Store](files/2026-04-28_A-perfect-storm.pdf)
