@@ -4,6 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2026
+* [2026-11-03 GoLab Bologna: sqlc deep dive: how SQL becomes type-safe Go code (Nikolay Kuznetsov)](files/2026-11-03_GoLab_Bologna_sqlc_deep_dive.pdf)
 * [2026-11-03 aiDevCon NYC 2026: Scaling Agentic Engineering at Zalando (Bartosz Ocytko)](files/2026-11-03-AI-DevCon-NYC-Scaling-Agentic-Engineering-at-Zalando.pdf)
 * [2026-10-13 ai-PULSE 2026: Scaling Agentic Engineering in an Enterprise Environment (Bartosz Ocytko)](files/2026-10-13-ai-pulse-scaling-agentic-engineering.pdf) ([video](https://youtu.be/QtvKh_d_HkY))
 * [2026-10-05 Real-Time Berlin: Where Data gets Moving (Chaitanya Waikar)](files/2026-10-05_Abstracting_Kafka_At_Scale.pdf)
