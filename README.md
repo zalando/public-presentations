@@ -10,6 +10,7 @@ We try to keep the list up-to-date --- please open a Pull Request to add a publi
 * [2026-10-13 ai-PULSE 2026: Scaling Agentic Engineering in an Enterprise Environment (Bartosz Ocytko)](files/2026-10-13-ai-pulse-scaling-agentic-engineering.pdf) ([video](https://youtu.be/QtvKh_d_HkY))
 * [2026-10-05 Real-Time Berlin: Where Data gets Moving (Chaitanya Waikar)](files/2026-10-05_Abstracting_Kafka_At_Scale.pdf)
 * [2026-09-18 AGNTCon + MCPCon Europe 2026: Economies of Scale for MCP and Agents – Why You Need an Identity Broker (Magnus Jungsbluth, Jan Brennenstuhl)](files/2026-09-18_agentic-identity-broker.pdf)
+* [2026-09-17 DIWODO 2026: Automating Article Onboarding With Generative AI (Fellipe Alexandre)](files/2026-09-17_DIWODO_Automating_Article_Onboarding_With_GenAI.pdf)
 * [2026-06-26 Swiss PGDay (lightning talk): SQL-first application development with sqlc (Nikolay Kuznetsov)](files/2026-06-26_Swiss_PGDay_sqlc.pdf)
 * [2026-06-17 Databricks Data + AI Summit 2026 San Francisco: Stop Arguing About Numbers: How Zalando Scales Governance with Unity Catalog and Metric Views (Mukrram Ur Rahman & Fabian Halkivaha)](files/2026-06-17_stop-arguing-about-numbers_DAIS-2026.pdf)
 * [2026-05-20 KCD Helsinki: Type-safe Postgres access in cloud-native applications with sqlc (Nikolay Kuznetsov)](files/2026-05-20_KCD_Helsinki_sqlc.pdf)
